@@ -9,6 +9,7 @@ function ReplyComment(props) {
 
         let commentNumber = 0;
         props.CommentLists.map((comment) => {
+
             if (comment.responseTo === props.parentCommentId) {
                 commentNumber++
             }
