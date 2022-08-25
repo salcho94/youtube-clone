@@ -17,3 +17,8 @@ server - node
 몽고 DB react 프로젝트 입니다.
 
 react + mongoDB project
+
+
+server 에서 추가 설치 npm
+brew install ffmpeg
+npm install fluent—ffmpeg
